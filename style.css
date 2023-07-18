@@ -1,0 +1,43 @@
+
+/* banner  */
+.banner {
+    margin: 0;
+    height: 540px;
+    padding: 50px 150px 0px 100px;
+    border: 1px solid tomato;
+    background-color: #eee0e3;
+    display: flex;
+    gap: 100px;
+}
+.banner-card {
+    width: 50%;
+    border: 1px solid rgb(32, 94, 78);
+}
+.h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 70px;
+    border: 1px solid tomato;
+}
+.p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(139, 143, 143);
+}
+.button {
+    height: 40px;
+    width: 150px;
+    background-color: #c76d97;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: transparent;
+}
+.banner-img-div {
+    width: 50%;
+    overflow: hidden;
+}
+.banner-img {
+    width: 100%;
+}
